@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет 👋, я Екатерина  
 
-<!--
-**Ekaterina-14-06/Ekaterina-14-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Обо мне  
+Аналитик данных, развиваюсь в SQL, Python и Power BI.  
+9+ лет опыта работы в бухгалтерии, сейчас фокус на Data Analytics.  
+Люблю работать с данными и делать понятные отчёты 📊.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки  
+- 🗄 SQL
+- 🐍 Python (Pandas, Matplotlib, Seaborn)  
+- 📊 Power BI  
+- 📑 Excel (Power Query, Power Pivot, сводные таблицы)  
+- 🧾 1С  
+- 🔧 Git / GitHub  
+
+---
+
+## 🎓 Дипломы и сертификаты  
+- 📜 [Диплом Java-разработчика (русский)](certificates/java-diploma-ru.pdf)  
+- 📜 [Java Developer Diploma (English)](certificates/java-diploma-en.pdf)  
+
+---
+
+## 📂 Проекты  
+- 📌 [SQL Queries & Data Analysis](https://github.com/Ekaterina-14-06/vk-database-project)  
+- 📌 [Python Data Analysis](в ближайшее время)  
+- 📌 [Power BI Dashboards](в ближайшее время)  
+
+---
+
+## 📫 Контакты  
+- ✉️ Email: lyadova.ev@gmail.com  
+- 💬 Telegram: [@freedom_of_the_spirit]
