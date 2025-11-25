@@ -21,8 +21,10 @@
 ---
 
 ## 🎓 Дипломы и сертификаты  
-- 📜 [Диплом Java-разработчика (русский)](certificates/java-diploma-ru.pdf)  
-- 📜 [Java Developer Diploma (English)](certificates/java-diploma-en.pdf)  
+- 📜 [Диплом Java-разработчика (русский)](diplomas/java-diploma-ru.pdf)  
+- 📜 [Java Developer Diploma (English)](diplomas/java-diploma-en.pdf)
+- 📜 [MAI_DataManagement Diploma](diplomas/MAI_DataManagement_2025.pdf)
+- 📜 [RGSU_Statistika_Bachelor Diploma](diplomas/RGSU_Statistika_Bachelor_2014.pdf)
 
 ---
 
