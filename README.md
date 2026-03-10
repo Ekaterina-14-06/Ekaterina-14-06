@@ -31,7 +31,7 @@
 ## 📂 Проекты  
 
 ### SQL и аналитика данных
-- 📌 [**SQL Queries & Data Analysis**](https://github.com/Ekaterina-14-06/sql-project)  
+- 📌 [**SQL Queries & Data Analysis**](https://github.com/Ekaterina-14-06/vk-database-project)  
 — работа с базой данных: создание таблиц, заполнение данными, примеры запросов (GROUP BY, HAVING, JOIN, агрегатные функции)
 
 ### BI и визуализация
